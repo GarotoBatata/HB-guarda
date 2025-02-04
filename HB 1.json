@@ -1,0 +1,257 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Guarda",
+				"abbreviation": "GUARDA",
+				"full": "G.U.A.R.D.A de Tenebris",
+				"authors": [
+					"Mahakala"
+				],
+				"convertedBy": [
+					"Mahakala"
+				],
+				"version": "1.0"
+			}
+		],
+		"status": "ready",
+		"edition": "one",
+		"dateAdded": 1608050554,
+		"dateLastModified": 1695223573,
+		"_dateLastModifiedHash": "b6b795e6fb"
+	},
+	"race": [
+		{
+			"name": "Transcendido (Demodand)",
+			"source": "XPHB",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 60,
+            "resist": [
+				"fire"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"Pequeno ou Médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Infernal",
+					"entries": [
+						"Você tem resistência a dano de Fogo"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Treinado para o pior",
+					"entries": [
+						"Acostumado com longos períodos de tempo sem comer, seu corpo se acostumou com a falta de alimento. Você só começa a passar fome e sede (Starving) a partir do 3 dia sem comer."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Fortitude diabólica.",
+					"entries": [
+						"+1 de vida por nível."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Transcendido (Hordling)",
+			"source": "XPHB",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 120,
+            "resist": [
+				"fire"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"Pequeno ou Médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Infernal",
+					"entries": [
+						"Você tem resistência a dano de Fogo"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Treinado para o pior",
+					"entries": [
+						"Acostumado com longos períodos de tempo sem comer, seu corpo se acostumou com a falta de alimento. Você só começa a passar fome e sede (Starving) a partir do 3 dia sem comer."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Visão aprimorada",
+					"entries": [
+						"Sua visão no escuro aumenta para 120 ft."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Transcendido (Baatezu)",
+			"source": "XPHB",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 60,
+            "resist": [
+				"fire"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"Pequeno ou Médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Infernal",
+					"entries": [
+						"Você tem resistência a dano de Fogo"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Treinado para o pior",
+					"entries": [
+						"Acostumado com longos períodos de tempo sem comer, seu corpo se acostumou com a falta de alimento. Você só começa a passar fome e sede (Starving) a partir do 3 dia sem comer."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Intelecto blindado.",
+					"entries": [
+						"Você tem vantagem em todos os testes de resistência de Inteligência."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		},
+		{
+			"name": "Transcendido (Tanar'ri)",
+			"source": "XPHB",
+			"page": 188,
+			"freeRules2024": true,
+			"edition": "one",
+			"creatureTypes": [
+				"humanoid"
+			],
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 60,
+            "resist": [
+				"fire"
+			],
+			"sizeEntry": {
+				"type": "item",
+				"name": "Size:",
+				"entries": [
+					"Pequeno ou Médio"
+				]
+			},
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"Você tem {@sense Darkvision|XPHB} com alcance de 60 pés."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Resistência Infernal",
+					"entries": [
+						"Você tem resistência a dano de Fogo"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Treinado para o pior",
+					"entries": [
+						"Acostumado com longos períodos de tempo sem comer, seu corpo se acostumou com a falta de alimento. Você só começa a passar fome e sede (Starving) a partir do 3 dia sem comer."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sem sorte para o azar",
+					"entries": [
+						"Sempre que tirar 1 em uma rolagem de d20 pode re-rolar o dado novamente e utilizar o novo resultado."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		}
+	]
+}
